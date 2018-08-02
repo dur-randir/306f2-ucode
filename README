@@ -1,0 +1,2 @@
+Some binary garbage collection for 0x000306f2 processor revision (Xeon v3
+QS/production series), converted into uint32_t array for inclusion into loaders.
